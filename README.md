@@ -1,18 +1,18 @@
 # Agnipath_Project
 
-###This is my Class 12 Final Project
+### This is my Class 12 Final Project
 
     It is based on Python and MySQL database
     It's completely Done using the basic stuffs
 
-####Library Used :
+#### Library Used :
       1. mysql.connector
       2. turtle
       3. datetime
       4. time
 
 
-####prerequired things:
+#### prerequired things:
       1. Install Python
       2. Install package like mysql.connector and turtle
       3. Install MySQL server
