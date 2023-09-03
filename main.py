@@ -8,7 +8,7 @@ import turtle
 
 # Setting the Connection-Object and the Cursor-Object
 connect = mysql.connect(user='root',
-                        passwd='password',
+                        passwd='akilesh@12345',
                         host='localhost',
                         database='Agnipath_Yojana',
                         charset='utf8')
